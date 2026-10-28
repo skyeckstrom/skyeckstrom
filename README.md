@@ -10,8 +10,8 @@
 20+ years building platforms, leading teams, and shipping products for some of the biggest brands
 in retail and media.
 
-**Currently** SVP of Technology at [Wolfe](https://www.wolfe.com/), the Pittsburgh gifting company
-behind PerfectGift, Gift Card Granny, Giftya, and Give InKind.
+**Currently** Chief Technology Officer at [Wolfe](https://www.wolfe.com/), the Pittsburgh gifting
+company behind PerfectGift, Gift Card Granny, Giftya, and Give InKind.
 
 **Previously** SVP and Chief Technology Officer at [Branding Brand](https://www.brandingbrand.com/),
 where I joined as the second engineer and grew to lead 100+ engineers behind an e-commerce platform
